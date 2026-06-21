@@ -1,0 +1,10 @@
+secteur,18-29 ans,30-44 ans,45-59 ans,60+ ans
+Métallurgie,1.22,1.09,0.95,0.5
+BTP,1.17,1.07,0.94,0.6
+"Transports, eau, gaz, électricité",1.25,1.03,0.98,0.67
+Commerce alimentation,1.07,1.0,1.0,0.83
+"Chimie, caoutchouc, plasturgie",1.12,1.06,1.0,0.67
+"Bois, ameublement, papier, textile",1.25,1.07,0.95,0.71
+Commerce non alimentaire,1.08,1.0,1.0,0.83
+"Services I (banques, assurances, admin)",1.1,1.07,1.0,0.71
+"Services II (intérim, santé, nettoyage)",1.14,1.07,0.97,0.71

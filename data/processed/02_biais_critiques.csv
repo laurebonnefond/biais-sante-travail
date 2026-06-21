@@ -1,0 +1,17 @@
+secteur,tranche_age,ratio,ecart_pct,type
+Métallurgie,60+ ans,0.5,-50.0,Sous-représentation
+BTP,60+ ans,0.6,-40.0,Sous-représentation
+"Transports, eau, gaz, électricité",60+ ans,0.67,-32.99999999999999,Sous-représentation
+"Chimie, caoutchouc, plasturgie",60+ ans,0.67,-32.99999999999999,Sous-représentation
+"Services I (banques, assurances, admin)",60+ ans,0.71,-29.000000000000004,Sous-représentation
+"Services II (intérim, santé, nettoyage)",60+ ans,0.71,-29.000000000000004,Sous-représentation
+"Bois, ameublement, papier, textile",60+ ans,0.71,-29.000000000000004,Sous-représentation
+"Transports, eau, gaz, électricité",18-29 ans,1.25,25.0,Surreprésentation
+"Bois, ameublement, papier, textile",18-29 ans,1.25,25.0,Surreprésentation
+Métallurgie,18-29 ans,1.22,21.999999999999996,Surreprésentation
+Commerce alimentation,60+ ans,0.83,-17.000000000000004,Sous-représentation
+Commerce non alimentaire,60+ ans,0.83,-17.000000000000004,Sous-représentation
+BTP,18-29 ans,1.17,16.999999999999993,Surreprésentation
+"Services II (intérim, santé, nettoyage)",18-29 ans,1.14,13.99999999999999,Surreprésentation
+"Chimie, caoutchouc, plasturgie",18-29 ans,1.12,12.00000000000001,Surreprésentation
+"Services I (banques, assurances, admin)",18-29 ans,1.1,10.000000000000009,Surreprésentation
