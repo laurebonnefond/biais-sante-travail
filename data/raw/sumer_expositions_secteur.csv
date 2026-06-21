@@ -1,0 +1,10 @@
+ctn,secteur,pct_bruit_85db,pct_gestes_repetitifs,pct_travail_nuit,pct_contraintes_posturales,pct_agents_chimiques,pct_agents_biologiques,pct_demande_psycho_forte,pct_latitude_faible,pct_soutien_social_faible,pct_travail_ecran_6h
+A,"Métallurgie",28.5,42.0,14.2,38.5,35.0,3.2,24.0,28.0,18.5,22.0
+B,"BTP",32.0,35.0,8.5,62.0,42.0,8.5,18.0,22.0,15.0,8.0
+C,"Transports, eau, gaz, électricité",18.0,22.0,24.5,28.0,12.0,4.0,32.0,35.0,20.0,28.0
+D,"Commerce alimentation",8.5,38.0,12.0,45.0,18.0,15.0,28.0,40.0,22.0,12.0
+E,"Chimie, caoutchouc, plasturgie",22.0,35.0,18.0,32.0,58.0,5.0,22.0,30.0,16.0,18.0
+F,"Bois, ameublement, papier, textile",35.0,45.0,10.0,42.0,38.0,4.5,20.0,32.0,17.0,10.0
+G,"Commerce non alimentaire",5.0,28.0,5.0,32.0,8.0,2.0,25.0,35.0,20.0,35.0
+H,"Services I (banques, assurances, admin)",2.0,12.0,3.0,8.0,2.0,1.5,35.0,18.0,22.0,72.0
+I,"Services II (intérim, santé, nettoyage)",12.0,40.0,22.0,52.0,25.0,28.0,38.0,42.0,25.0,15.0

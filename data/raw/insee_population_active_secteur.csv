@@ -1,0 +1,10 @@
+ctn,secteur,population_active,pct_hommes_insee,pct_femmes_insee,pct_18_29_insee,pct_30_44_insee,pct_45_59_insee,pct_60_plus_insee
+A,"Métallurgie",420000,82,18,18,32,40,10
+B,"BTP",1680000,88,12,24,30,36,10
+C,"Transports, eau, gaz, électricité",980000,72,28,16,32,40,12
+D,"Commerce alimentation",1050000,42,58,28,28,32,12
+E,"Chimie, caoutchouc, plasturgie",280000,70,30,16,32,40,12
+F,"Bois, ameublement, papier, textile",350000,68,32,16,28,42,14
+G,"Commerce non alimentaire",1300000,48,52,24,30,34,12
+H,"Services I (banques, assurances, admin)",2700000,40,60,20,30,36,14
+I,"Services II (intérim, santé, nettoyage)",3200000,35,65,22,28,36,14

@@ -1,0 +1,10 @@
+ctn,secteur,effectifs_salaries,nb_at,nb_at_graves,nb_mp,nb_deces_at,indice_frequence,taux_gravite,pct_hommes,pct_femmes,pct_18_29,pct_30_44,pct_45_59,pct_60_plus
+A,"Métallurgie",382000,18520,1205,1890,18,48.5,2.1,88,12,22,35,38,5
+B,"BTP",1520000,98700,8450,5620,142,64.9,3.2,91,9,28,32,34,6
+C,"Transports, eau, gaz, électricité",890000,42300,2870,2450,52,47.5,2.0,78,22,20,33,39,8
+D,"Commerce alimentation",960000,48200,2150,3200,22,50.2,1.8,45,55,30,28,32,10
+E,"Chimie, caoutchouc, plasturgie",245000,7400,580,1420,8,30.2,1.5,75,25,18,34,40,8
+F,"Bois, ameublement, papier, textile",310000,14900,1080,1850,12,48.1,2.3,72,28,20,30,40,10
+G,"Commerce non alimentaire",1180000,38600,1520,2100,18,32.7,1.2,52,48,26,30,34,10
+H,"Services I (banques, assurances, admin)",2450000,25800,890,1200,8,10.5,0.5,42,58,22,32,36,10
+I,"Services II (intérim, santé, nettoyage)",2860000,142500,7200,8900,65,49.8,2.4,38,62,25,30,35,10
